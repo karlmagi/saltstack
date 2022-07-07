@@ -1,8 +1,6 @@
 base:
-  '*'
-   - requirements
-   - users
-   - ssh
-   - dns
-
-
+  '*':
+    - requirements
+    - users
+    - ssh
+    - dns
