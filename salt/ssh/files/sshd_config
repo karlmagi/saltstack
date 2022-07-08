@@ -50,7 +50,7 @@ ChallengeResponseAuthentication no
 
 # Change to no to disable tunnelled clear text passwords
 PasswordAuthentication no
-AllowUsers karlm
+AllowUsers karlm karlmagi
 # Kerberos options
 #KerberosAuthentication no
 #KerberosGetAFSToken no
